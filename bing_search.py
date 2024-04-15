@@ -7,7 +7,7 @@ import json
 import requests
 from bs4 import BeautifulSoup
 import openai
-openai.api_key = 'sk-pd4kVZOzY3xWw4xL0ALayEjjWBJ0kLUGT4gXvAymsGMDr7YM'  # Replace with your OpenAI API key
+openai.api_key = ''  # Replace with your OpenAI API key
 openai.api_base = "https://api.chatanywhere.com.cn/v1"
 from langchain.document_loaders import UnstructuredURLLoader
 from langchain.docstore.document import Document
