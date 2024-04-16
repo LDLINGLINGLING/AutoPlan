@@ -14,7 +14,10 @@ train_react.josn和test_react.json分别为对任务规划和任务执行两个�
 任务规划阶段效果如下：
 ![image](https://github.com/LDLINGLINGLING/AutoPlan/assets/47373076/9c33c42f-7105-4ab5-9a10-eab75b68d9cf)
 任务执行阶段效果如下:
-![image](https://github.com/LDLINGLINGLING/AutoPlan/assets/47373076/c449bb9e-9966-4b99-b7c0-e7874a113801)
+![image](https://github.com/LDLINGLINGLING/AutoPlan/assets/47373076/e1c70b39-d7c3-4a76-b30e-746f7f279a9b)
+
 续上
+![image](https://github.com/LDLINGLINGLING/AutoPlan/assets/47373076/6f2b1dcc-4572-425a-8e7b-04a8a73e363e)
+
 
 
