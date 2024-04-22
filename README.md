@@ -14,10 +14,11 @@ train_react.josn和test_react.json分别为对任务规划和任务执行两个�
 训练完成后将main.py文件中allparams_split_task_chain的default值改为false。将execute_model_path改为以上模型训练的模型地址，execute_reflexion改为false。
 推理可得一个模型同时获得任务规划和任务执行两个效果。
 任务规划阶段效果如下：
-<img width="981" alt="294754670-46c7ed17-197f-487a-b9bc-893c49eaba36" src="https://github.com/LDLINGLINGLING/AutoPlan/assets/47373076/d10d1585-4a78-4205-8e11-5e888b72445b">
+<img width="1280" alt="294754660-1aafe21f-f39c-4a36-9002-c27e3eb9f5ce" src="https://github.com/LDLINGLINGLING/AutoPlan/assets/47373076/485d5a8f-b492-4aec-8a0f-f1bcc1853a4e">
 
 任务执行阶段效果如下:
-![image](https://github.com/LDLINGLINGLING/AutoPlan/assets/47373076/e1c70b39-d7c3-4a76-b30e-746f7f279a9b)
+<img width="981" alt="294754670-46c7ed17-197f-487a-b9bc-893c49eaba36" src="https://github.com/LDLINGLINGLING/AutoPlan/assets/47373076/389d22fe-e1e5-4595-8de9-d0683524bd93">
+
 
 续上
 ![image](https://github.com/LDLINGLINGLING/AutoPlan/assets/47373076/6f2b1dcc-4572-425a-8e7b-04a8a73e363e)
