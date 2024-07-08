@@ -1,5 +1,5 @@
 # 狡兔死走狗烹
-今年五月一日离职，因为这项目和文章拿到了绩效a。以下是离职大礼包，为什么要发在github上，可以自行想象。
+今年五月一日离职，因为这项目和文章拿到了绩效a。以下是离职大礼包。
 
 ![image](https://github.com/LDLINGLINGLING/AutoPlan/assets/47373076/00d8864c-f92c-4876-bec8-5f10233b0a9f)
 
