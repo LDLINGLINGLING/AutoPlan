@@ -1,8 +1,7 @@
 # 狡兔死走狗烹
 今年五月一日从湖南某985高校离职，因为这项目和文章拿到了绩效a。以下是离职大礼包，文章一作没有，绩效没有，有的是卸磨杀驴。
 
-![image](https://github.com/LDLINGLINGLING/AutoPlan/assets/47373076/5ee50a7c-39af-4337-9f96-475ff9df0d6c)
-
+![image](https://github.com/LDLINGLINGLING/AutoPlan/assets/47373076/00d8864c-f92c-4876-bec8-5f10233b0a9f)
 
 ![image](https://github.com/LDLINGLINGLING/AutoPlan/assets/47373076/642df8e0-8590-460c-ab28-f578d236867d)
 
