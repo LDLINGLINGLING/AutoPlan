@@ -3,7 +3,7 @@
 
 ![image](https://github.com/LDLINGLINGLING/AutoPlan/assets/47373076/00d8864c-f92c-4876-bec8-5f10233b0a9f)
 
-![image](https://github.com/LDLINGLINGLING/AutoPlan/assets/47373076/642df8e0-8590-460c-ab28-f578d236867d)
+
 
 # AutoPlan
 本项目主要完成了在军事领域下基于大模型的复杂任务规划和执行，使用到了改进的react技术进行长链条的agent执行。本仓库要感谢尹俊希老帅哥的大力支持，为本项目做出了非常大的帮助<br>
