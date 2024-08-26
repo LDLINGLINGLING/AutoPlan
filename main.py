@@ -18,7 +18,7 @@ import json5
 import torch
 from transformers import AutoModelForCausalLM, AutoTokenizer
 from transformers.generation import GenerationConfig
-from fastbm25 import fastbm25
+#from fastbm25 import fastbm25
 from sentence_transformers import SentenceTransformer
 from bing_search import *
 import time
@@ -232,7 +232,6 @@ def build_input_text(chat_history, list_of_plugin_info) -> str:
 
 
 def text_completion(input_text: str, stop_words) -> str:  # 作为一个文本续写模型来使用
-
     if not template_new:
         im_end = '<|im_end|>'
         if im_end not in stop_words:
