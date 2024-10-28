@@ -1,3 +1,9 @@
+# 进展
+2024年10月，准备启动AutoPlan2的项目，敬请期待。
+2024年10月，初步完成了长链条的function call数据构造，暂时还未开源。
+2024年9月，做出了高质量[冷启动的function call数据构造](https://github.com/OpenBMB/MiniCPM-CookBook/tree/main/agent_demo)
+
+
 
 # AutoPlan
 本项目主要完成了在军事领域下基于大模型的复杂任务规划和执行，使用到了改进的react技术进行长链条的agent执行。本仓库要感谢尹俊希老帅哥的大力支持，为本项目做出了非常大的帮助<br>
