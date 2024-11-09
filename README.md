@@ -1,8 +1,6 @@
 # 进展
 2024年10月，启动了[AutoPlan2](https://github.com/LDLINGLINGLING/AutoPlan)，极大的降低了AutoPlan的数据构造成本，致力于冷启动构造专业领域复杂Agent数据。
 
-2024年10月，初步完成了长链条的function call数据构造，暂时还未开源。
-
 2024年9月，做出了高质量[冷启动的function call数据构造](https://github.com/OpenBMB/MiniCPM-CookBook/tree/main/agent_demo)
 
 
