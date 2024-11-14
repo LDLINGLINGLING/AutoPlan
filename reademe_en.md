@@ -1,5 +1,5 @@
 # Progress
-In October 2024, [AutoPlan2](https://github.com/LDLINGLINGLING/AutoPlan) was launched, significantly reducing the data construction cost for AutoPlan and focusing on constructing complex agent data for professional fields during cold start.
+In October 2024, [AutoPlan2](https://github.com/LDLINGLINGLING/AutoPlan2) was launched, significantly reducing the data construction cost for AutoPlan and focusing on constructing complex agent data for professional fields during cold start.
 
 In September 2024, high-quality [cold start function call data construction](https://github.com/OpenBMB/MiniCPM-CookBook/tree/main/agent_demo) was achieved.
 
