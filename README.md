@@ -1,4 +1,6 @@
 # 进展
+2025年10月，开始进行规划已久的AutoPlan3的建设，致力于完成通用工具长程工具的数据构造与训练。
+
 更新了[English readme](./reademe_en.md)。
 
 2024年10月，启动了[AutoPlan2](https://github.com/LDLINGLINGLING/AutoPlan2)，极大的降低了AutoPlan的数据构造成本，致力于冷启动构造专业领域复杂Agent数据。
